@@ -4,8 +4,8 @@
 
 # Ejecutar en desarrollo
 
-1.Clonar el repositorio
-2.Ejecutar
+1. Clonar el repositorio
+2. Ejecutar
 ```
 yarn install 
 ```
